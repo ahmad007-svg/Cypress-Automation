@@ -67,9 +67,3 @@ One solution is to use [cy.viewport()](https://docs.cypress.io/api/commands/view
 
        Example: Application/website has a bug where login button is not working - this means that settings(and other tests) would still pass since we log in programmatically but login test would fail, because we actually click on the button like users do.
 
-
-## :link: Links
-
-1. https://www.youtube.com/watch?v=5XQOK0v_YRE&ab_channel=OKG%21
-2. https://docs.cypress.io/guides/references/best-practices.html
-3. https://docs.cypress.io/api/cypress-api/custom-commands.html#Best-Practices
